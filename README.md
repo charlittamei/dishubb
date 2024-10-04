@@ -35,11 +35,11 @@ Website ini merupakan website jadwal transportasi bus Garut.
 
 ## ERD
 
-<img src="image/erd.jpg" alt="diagram erd">
+![alt text](https://github.com/charlittamei/dishubb/blob/main/image/erd.jpg?raw=true)
 
 ## UML
 
--
+![alt text](https://github.com/charlittamei/dishubb/blob/main/image/uml.jpg?raw=true)
 
 ## Persyaratan Instalasi
 
