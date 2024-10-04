@@ -35,7 +35,7 @@ Website ini merupakan website jadwal transportasi bus Garut.
 
 ## ERD
 
-<img src="images/erd.jpg" alt="diagram erd">
+<img src="image/erd.jpg" alt="diagram erd">
 
 ## UML
 
