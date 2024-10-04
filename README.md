@@ -39,7 +39,7 @@ Website ini merupakan website jadwal transportasi bus Garut.
 
 ## UML
 
-![alt text](https://github.com/charlittamei/dishubb/blob/main/image/uml.jpg?raw=true)
+![alt text](https://github.com/charlittamei/dishubb/blob/main/image/uml.jpeg?raw=true)
 
 ## Persyaratan Instalasi
 
